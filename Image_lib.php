@@ -1,5 +1,5 @@
 <?php
-namespace hiq\util;
+
 //if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 /**
  * CodeIgniter
