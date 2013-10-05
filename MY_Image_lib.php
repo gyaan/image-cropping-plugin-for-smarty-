@@ -1,6 +1,6 @@
 <?php
 //if (! defined('BASEPATH')) exit('No direct script access allowed');
-namespace hiq\util;
+
 class MY_Image_lib extends CI_Image_lib
 {
 
