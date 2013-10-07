@@ -1,4 +1,4 @@
-Note:please don't use this currently i am developing this
+Note:please don't use this currently i am developing 
 
 This is a plugin for smarty which creates image thumb in different size.
 
